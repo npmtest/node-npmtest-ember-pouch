@@ -1,0 +1,27 @@
+<svg height="382" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="382" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 09:33:02 +0000    55169 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 09:33:02 +0000    11357 bytes  LICENSE.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 09:33:02 +0000    20834 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 09:33:02 +0000    12203 bytes  addon/adapters/pouch.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 09:33:02 +0000      160 bytes  addon/index.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 09:33:02 +0000      118 bytes  addon/model.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 09:33:02 +0000     3452 bytes  addon/serializers/pouch.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 09:33:02 +0000      370 bytes  addon/transforms/attachment.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 09:33:02 +0000     1277 bytes  addon/transforms/attachments.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 09:33:02 +0000      152 bytes  addon/utils.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 09:33:02 +0000       61 bytes  app/transforms/attachment.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 09:33:02 +0000       62 bytes  app/transforms/attachments.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 09:33:02 +0000      668 bytes  blueprints/pouch-adapter/files/__root__/adapters\</tspan>
+<tspan x="10" y="234">/__name__.js</tspan>
+<tspan x="10" y="250"> 13.  2017-04-21 09:33:02 +0000      279 bytes  blueprints/pouch-adapter/index.js</tspan>
+<tspan x="10" y="266"> 14.  2017-04-21 09:33:02 +0000      166 bytes  blueprints/pouch-model/files/__root__/models/__n\</tspan>
+<tspan x="10" y="282">ame__.js</tspan>
+<tspan x="10" y="298"> 15.  2017-04-21 09:33:02 +0000      194 bytes  blueprints/pouch-model/index.js</tspan>
+<tspan x="10" y="314"> 16.  2017-04-21 09:33:02 +0000      111 bytes  config/environment.js</tspan>
+<tspan x="10" y="330"> 17.  2017-04-21 09:33:02 +0000     1866 bytes  index.js</tspan>
+<tspan x="10" y="346"> 18.  2017-04-21 09:33:02 +0000     1685 bytes  package.json</tspan>
+<tspan x="10" y="362"> 19.  2017-04-21 09:33:02 +0000      154 bytes  vendor/pouchdb/shims.js</tspan>
+</text>
+</svg>
